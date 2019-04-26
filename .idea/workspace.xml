@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b86f2b1a-4455-49d0-b31f-01f60d89b30b" name="Default Changelist" comment="" />
+    <list default="true" id="b86f2b1a-4455-49d0-b31f-01f60d89b30b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Scraper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Scraper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/MitraClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/MitraClient.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Scraper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Scraper.class" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -53,16 +60,65 @@
       <usages-collector id="statistics.js.language.service.starts" />
       <usages-collector id="statistics.spring.boot.mvc.usages" />
     </session>
+    <session id="-898820557">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="44" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="44" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="1192099383">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.223" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="1065" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="1065" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FavoritesManager">
     <favorites_list name="infowebscraper" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="402">
+            <state relative-caret-position="650">
               <caret line="26" selection-start-line="26" selection-end-line="26" />
             </state>
           </provider>
@@ -71,8 +127,20 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/MitraClient.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-85">
-              <caret line="56" selection-start-line="56" selection-end-line="56" />
+            <state relative-caret-position="1700">
+              <caret line="75" column="21" selection-start-line="75" selection-start-column="21" selection-end-line="75" selection-end-column="21" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Scraper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="163">
+              <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -81,13 +149,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Scraper.java">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/jsoup/jsoup/1.11.3/jsoup-1.11.3.jar!/org/jsoup/nodes/Element.class">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="21" selection-start-line="21" selection-end-line="21" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="92">
+              <caret line="568" selection-start-line="568" selection-end-line="568" />
             </state>
           </provider>
         </entry>
@@ -106,6 +171,9 @@
       <find>digi</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -121,38 +189,40 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="796" />
-    <option name="y" value="321" />
-    <option name="width" value="1629" />
-    <option name="height" value="1726" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="30" />
+    <option name="y" value="-30" />
+    <option name="width" value="1630" />
+    <option name="height" value="1105" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="infowebscraper" type="b2602c69:ProjectViewProjectNode" />
-              <item name="infowebscraper" type="462c0819:PsiDirectoryNode" />
+              <item name="myfirst_webscraper" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myfirst_webscraper" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="infowebscraper" type="b2602c69:ProjectViewProjectNode" />
-              <item name="infowebscraper" type="462c0819:PsiDirectoryNode" />
+              <item name="myfirst_webscraper" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myfirst_webscraper" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="infowebscraper" type="b2602c69:ProjectViewProjectNode" />
-              <item name="infowebscraper" type="462c0819:PsiDirectoryNode" />
+              <item name="myfirst_webscraper" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myfirst_webscraper" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="infowebscraper" type="b2602c69:ProjectViewProjectNode" />
-              <item name="infowebscraper" type="462c0819:PsiDirectoryNode" />
+              <item name="myfirst_webscraper" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myfirst_webscraper" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -162,14 +232,13 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542573617243" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../Preexamen" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556300184446" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -192,8 +261,7 @@
   <component name="RunManager">
     <configuration name="Scraper" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Scraper" />
-      <module name="myfirst_webscraping" />
-      <option name="VM_PARAMETERS" value="-Djavax.net.debug=all " />
+      <module name="infoweb-scraper" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -269,11 +337,14 @@
       <workItem from="1542317489547" duration="10592000" />
       <workItem from="1542334067671" duration="2230000" />
       <workItem from="1542559238806" duration="6872000" />
+      <workItem from="1542712905520" duration="284000" />
+      <workItem from="1548257325849" duration="700000" />
+      <workItem from="1556296829591" duration="3320000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28928000" />
+    <option name="totallyTimeSpent" value="33232000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -285,9 +356,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="354" y="143" width="724" height="767" extended-state="0" />
+    <frame x="-6" y="-6" width="1293" height="733" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4988399" visible="true" weight="0.5643712" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4988399" visible="true" weight="0.1708502" />
       <window_info id="Structure" order="1" sideWeight="0.5011601" side_tool="true" weight="0.12327774" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -297,8 +368,8 @@
       <window_info id="Favorites" order="7" sideWeight="0.5011601" side_tool="true" weight="0.12327774" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.7026831" weight="0.1978022" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.6185642" weight="0.39719626" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.7026831" weight="0.2807309" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.6185642" weight="0.38538206" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49891225" weight="0.32866043" />
@@ -356,7 +427,7 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$PROJECT_DIR$/../../../jsoup-1.11.3-sources.jar!/org/jsoup/helper/Validate.java" />
+    <entry file="jar://$USER_HOME$/jsoup-1.11.3-sources.jar!/org/jsoup/helper/Validate.java" />
     <entry file="jrt://C:/Program Files/Java/jdk-10.0.1!/java.base/sun/security/ssl/Alerts.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="104">
@@ -378,32 +449,39 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$PROJECT_DIR$/../../../jsoup-1.11.3-sources.jar!/org/jsoup/helper/HttpConnection.java" />
-    <entry file="jar://$PROJECT_DIR$/../../../jsoup-1.11.3-sources.jar!/org/jsoup/Jsoup.java" />
+    <entry file="jar://$USER_HOME$/jsoup-1.11.3-sources.jar!/org/jsoup/helper/HttpConnection.java" />
+    <entry file="jar://$USER_HOME$/jsoup-1.11.3-sources.jar!/org/jsoup/Jsoup.java" />
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="650">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/MitraClient.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-85">
-          <caret line="56" selection-start-line="56" selection-end-line="56" />
+        <state relative-caret-position="1700">
+          <caret line="75" column="21" selection-start-line="75" selection-start-column="21" selection-end-line="75" selection-end-column="21" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/jsoup/jsoup/1.11.3/jsoup-1.11.3.jar!/org/jsoup/nodes/Element.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="568" selection-start-line="568" selection-end-line="568" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Scraper.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        <state relative-caret-position="163">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="402">
-          <caret line="26" selection-start-line="26" selection-end-line="26" />
         </state>
       </provider>
     </entry>
